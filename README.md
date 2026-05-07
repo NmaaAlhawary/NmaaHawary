@@ -1,21 +1,95 @@
-# Hi, I'm Nmaa 👋
+<div align="center">
+
+# Hi 👋 I'm Nmaa Hawary
 
 ### AI & Software Developer
 
-Robotics • Machine Learning • Web Development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Computer+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nmaa-hawary/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NmaaAlhawary)
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 💻 Building AI systems
+# 🚀 About Me
+
+- 💻 AI & Software Developer
 - 🎓 Computer Engineering Student
-- 🌍 Jordan
+- 🌍 Amman, Jordan
+- 🤖 Interested in AI, Robotics, Web Development & DevOps
+- 🔥 Building projects and exploring new technologies
 
+---
 
-## 📊 GitHub Stats
+# 🛠️ Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,django,docker,git,linux,mysql,html,css" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## 🧠 AI & Software
+- HTUX
+- AVR
+- ID-System
+
+## 🐳 DevOps & Backend
+- Docker + Django + Nginx Internship Project
+- Sitech Internship Tasks
+
+## ☕ Java Programming
+- OOP Projects
+- Event-Driven Applications
+- Java Coursework Collection
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NmaaAlhawary&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NmaaAlhawary&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NmaaAlhawary&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nmaa-hawary/">
+<img src="https://img.shields.io/badge/LinkedIn-Nmaa_Hawary-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ “Building systems that solve real problems.”
+
+</div>
