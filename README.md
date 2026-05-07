@@ -18,51 +18,7 @@
   </a>
 </p>
 
----
 
-# 🚀 About Me
-
-- 💻 AI & Software Developer
-- 🖥️ Computer Engineer
-- 🌍 Amman, Jordan
-- 🤖 Interested in AI, Robotics, Web Development & DevOps
-- 🔥 Building projects and exploring new technologies
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NmaaAlhawary&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NmaaAlhawary&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NmaaAlhawary&theme=tokyonight" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nmaa-hawary/">
-<img src="https://img.shields.io/badge/LinkedIn-Nmaa_Hawary-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
----
 
 <div align="center">
 
