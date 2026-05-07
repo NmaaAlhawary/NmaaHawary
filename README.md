@@ -18,39 +18,10 @@
 
 # 🚀 About Me
 
-- 💻 AI & Software Developer
-- 🎓 Computer Engineering Student
-- 🌍 Amman, Jordan
-- 🤖 Interested in AI, Robotics, Web Development & DevOps
-- 🔥 Building projects and exploring new technologies
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,django,docker,git,linux,mysql,html,css" />
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-## 🧠 AI & Software
-- HTUX
-- AVR
-- ID-System
-
-## 🐳 DevOps & Backend
-- Docker + Django + Nginx Internship Project
-- Sitech Internship Tasks
-
-## ☕ Java Programming
-- OOP Projects
-- Event-Driven Applications
-- Java Coursework Collection
+- AI & Software Developer
+- Amman, Jordan
+-  Interested in AI, Robotics, Web Development & DevOps
+-  Building projects and exploring new technologies
 
 ---
 
