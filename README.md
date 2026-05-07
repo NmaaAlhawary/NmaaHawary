@@ -2,9 +2,9 @@
 
 # Hi 👋 I'm Nmaa Hawary
 
-### AI & Software Developer
+### AI & Software Developer | Computer Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Computer+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Computer+Engineer;Full+Stack+Developer;Machine+Learning+Enthusiast" />
 
 <br>
 
@@ -18,10 +18,11 @@
 
 # 🚀 About Me
 
-- AI & Software Developer
-- Amman, Jordan
--  Interested in AI, Robotics, Web Development & DevOps
--  Building projects and exploring new technologies
+- 💻 AI & Software Developer
+- 🖥️ Computer Engineer
+- 🌍 Amman, Jordan
+- 🤖 Interested in AI, Robotics, Web Development & DevOps
+- 🔥 Building projects and exploring new technologies
 
 ---
 
