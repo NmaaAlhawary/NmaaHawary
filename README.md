@@ -19,9 +19,4 @@
 </p>
 
 
-
-<div align="center">
-
-### Building systems that solve real problems.
-
 </div>
