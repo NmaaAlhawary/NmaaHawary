@@ -22,6 +22,6 @@
 
 <div align="center">
 
-### ⚡ “Building systems that solve real problems.”
+### “Building systems that solve real problems.”
 
 </div>
