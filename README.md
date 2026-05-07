@@ -15,16 +15,6 @@ Robotics • Machine Learning • Web Development
 - 🎓 Computer Engineering Student
 - 🌍 Jordan
 
----
-
-## 🛠️ Tech Stack
-- Python
-- JavaScript
-- React
-- Node.js
-- TensorFlow
-
----
 
 ## 📊 GitHub Stats
 
