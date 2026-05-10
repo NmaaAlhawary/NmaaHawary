@@ -4,9 +4,9 @@
 
 ---
 
-### AI & Software Developer | Computer Engineer
+###  Software & AI Engineer | Computer Science
 
-*Robotics • Machine Learning • Web Development • Simulation*
+*Robotics • Machine Learning • Web Development • Moodle Development*
 
 <br>
 
